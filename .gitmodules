@@ -1,5 +1,5 @@
-[submodule "auth_service"]
-	path = auth_service
+[submodule "auth-service"]
+	path = auth-service
 	url = https://github.com/Ksenob1te/mixtura-backend-auth.git
 	branch = develop
 	update = merge
