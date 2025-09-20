@@ -3,3 +3,23 @@
 	url = https://github.com/Ksenob1te/mixtura-backend-auth.git
 	branch = develop
 	update = merge
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/Ksenob1te/mixtura-backend-user.git
+	branch = develop
+	update = merge
+[submodule "server-service"]
+	path = server-service
+	url = https://github.com/Ksenob1te/mixtura-backend-server.git
+	branch = develop
+	update = merge
+[submodule "mixer-service"]
+	path = mixer-service
+	url = https://github.com/Ksenob1te/mixtura-backend-mixer.git
+	branch = develop
+	update = merge
+[submodule "tournament-service"]
+	path = tournament-service
+	url = https://github.com/Ksenob1te/mixtura-backend-tournament.git
+	branch = develop
+	update = merge
