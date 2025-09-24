@@ -3,7 +3,10 @@ name = "mixtura-backend"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "fastapi>=0.117.1",
+    "fastapi-controllers>=0.3.0",
+]
 
 [tool.uv.workspace]
 members = [
