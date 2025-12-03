@@ -23,3 +23,7 @@
 	url = https://github.com/Ksenob1te/mixtura-backend-tournament.git
 	branch = develop
 	update = merge
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/mixtura-dev/mixtura-backend-gateway.git
+	branch = develop
